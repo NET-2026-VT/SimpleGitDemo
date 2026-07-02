@@ -7,5 +7,8 @@
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello everyone!");
         Console.WriteLine("From dimitris");
+
+        Console.WriteLine("Hej");
+        Console.WriteLine("Hej");
     }
 }
