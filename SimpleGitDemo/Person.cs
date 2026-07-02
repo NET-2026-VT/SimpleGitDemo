@@ -6,6 +6,6 @@ namespace SimpleGitDemo;
 
 internal class Person
 {
-    public string? Name { get; set; }
+    public string? FirstName { get; set; }
     public int Salary { get; set; }
 }
