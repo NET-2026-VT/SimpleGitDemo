@@ -7,5 +7,5 @@ namespace SimpleGitDemo;
 internal class Person
 {
     public string? FirstName { get; set; }
-    public int Salary { get; set; }
+    public int SalaryLevel { get; }
 }
