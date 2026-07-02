@@ -2,14 +2,18 @@
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("Hello, Kalle!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello, World!");
+      
         Console.WriteLine("Hello everyone!");
 <<<<<<< HEAD
         //Kommentar
 =======
         Console.WriteLine("From dimitris");
+<<<<<<< HEAD
 >>>>>>> ec52fedd4389cbaab795840425a5cb24a0d2a227
+=======
+    Console.WriteLine("From Git (Haithem)");
+>>>>>>> 63ce63b2cc49993ea354732be0bbfbcef845e367
     }
 }
