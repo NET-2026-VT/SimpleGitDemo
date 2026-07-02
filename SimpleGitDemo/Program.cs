@@ -5,6 +5,7 @@
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hello everyone!")
+        Console.WriteLine("Hello everyone!");
+        //Kommentar
     }
 }
